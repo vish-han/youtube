@@ -1,5 +1,9 @@
+import Intro from './components/intro/Intro'
+
 const App = () => {
-  return <div>Hello world!</div>;
+  return <>
+  <Intro/>
+  </>;
 };
 
 export default App;
